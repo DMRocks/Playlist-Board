@@ -18,6 +18,6 @@ In your terminal, cd into your folder. You will create evironmental variables wi
 
 If using Apple, replace SET with export and surrond the vaules with apostrophes. 
 
-Then run the program, it will prompt you to type your username and the time range you would like to pull from. It will then redirect you to a Spotify page. Log on, then it will redirect you to google. In the taskbar copy that link and paste it into the program.
+Run the program, it will prompt you to type your username and the time range you would like to pull from. It will then take you to your Spotify page. Log on, and the program will redirect you to Google. Copy the URL in the task bar and paste the URL back into the program.
 
-The program will then download the albums and combine them into one image. All done!
+Sit back and let the program work! Then ending file will save in the same directory as the python file. 
